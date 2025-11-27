@@ -1,0 +1,14 @@
+# Environnemnent virtuel
+venv/
+.env/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Dossier photos
+Data/
